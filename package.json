@@ -1,5 +1,5 @@
 {
-    "name": "redis-smq-monitor",
+    "name": "@crypto.com/redis-smq-monitor",
     "description": "A monitoring tool for RedisSMQ message queue",
     "version": "1.1.5",
     "main": "./build/index.js",
